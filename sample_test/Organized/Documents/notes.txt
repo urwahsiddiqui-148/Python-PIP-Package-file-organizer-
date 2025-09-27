@@ -1,0 +1,35 @@
+{
+  "basics": {
+    "name": "Urwah Shafiq Siddiqui",
+    "label": "Azure-Focused, Devops engineer",
+    "image": "",
+    "email": "urwahshafiq23@gmail.com",
+    "phone": "+923129642836",
+    "Linkedin": "https://www.linkedin.com/in/urwah-shafiq/",
+    "summary": "Passionate Azure Cloud–focused DevOps Engineer with expertise in automating infrastructure, building CI/CD pipelines, and managing cloud-native environments using Azure, Terraform, Docker, Kubernetes, and GitHub Actions. Skilled in optimizing performance, ensuring reliability, and driving continuous improvement to deliver scalable and secure cloud solutions.",
+    "location": {
+      "address": "Cantt villas",
+      "postalCode": "66000",
+      "city": "Multan",
+      "countryCode": "Pak",
+      "region": "Punjab"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "username": "Urwah Shafiq",
+      "url": "https://www.linkedin.com/in/urwah-shafiq/"
+    }]
+  },
+  "work": [{
+    "name": "Just Graduated as a software Engineer",
+    "position": "Nil",
+    "url": "Nil",
+      }],
+  "volunteer": [{
+    "organization": "MLSA",
+    "position": "Lead of Chapter",
+    "url": "https://mlsamust.netlify.app/",
+    "startDate": "2023-01-01",
+    "endDate": "Continued",
+  }],
+  }
